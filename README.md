@@ -70,7 +70,7 @@ My detailed CV.
 
 - Supervision of BSc project. Rik Nienhuis and Bob Evenhuis. The effect of resource limitation and asymmetric competition on insular dwarfism and gigantism. Community Ecology Research (2018).
 
-- Grading of MSc essay (MEME program). Israel Campo Bes. On the Origin of Genetic Dominance by Means of Natural Selection?
+- Grading of MSc essay (MEME program). Israel Campo Bes. On the Origin of Genetic Dominance by Means of Natural Selection (2020)?
 
 - Tutorial on advanced data manipulation using R and the tidyverse (2020). Openly available at https://github.com/pratikunterwegs/tres-tidy-tutorial.
 
