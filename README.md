@@ -33,3 +33,10 @@ My detailed CV.
 - Tree imbalance under the Protracted Birth Death model of speciation. MSc project (2015). Department of Theoretical Research in Evolutionary Life Sciences, Groningen Institute for Evolutionary Life Sciences, University of Groningen, the Netherlands. Supervised by Prof. Dr. Rampal S. Etienne.
 
 - Skeletal development and evolution of developmental genes in the Cuban gar (Atractosteus tristoechus). MSc project (2015). In French. Institut des Sciences de l'Evolution de Montpellier, University of Montpellier, France. Supervised by Dr. Melanie Debiais-Thibaud.
+
+## Links
+
+- [GitHub](https://github.com/rscherrer)
+- [ResearchGate](https://www.researchgate.net/profile/Raphael-Scherrer)
+- University of Groningen [website](https://www.rug.nl/staff/r.scherrer/)
+- LinkedIn
