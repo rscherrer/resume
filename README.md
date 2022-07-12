@@ -48,17 +48,19 @@ My detailed CV.
 
 ## Teaching
 
-- Teaching assistant. Programming in C++ for biologists (2019, 2020).
+(University of Groningen.)
 
-- Teaching assistant. Behaviour, Ecology and Evolution (2020, 2021).
+- Teaching assistant (BSc, MSc, PhD). Practicals and one lecture. Programming in C++ for biologists (2019, 2020). 
 
-- Teaching assistant. Evolutionary processes (2020, 2021, 2022).
+- Teaching assistant (MSc). Practicals on the concept of fitness. Behaviour, Ecology and Evolution (2020, 2021). 
 
-- Supervision MSc thesis. Celia Tsapalou (MSc Ecology and Evolution). Inferring the Additive and Epistatic Genetic Architecture involved in Speciation Using Neural Networks (2020).
+- Teaching assistant (BSc). Computer practicals on speciation theory. Evolutionary processes (2020, 2021, 2022). 
 
-- Supervision MSc thesis. Joris Damhuis (MSc Ecology and Evolution). Optimal choice and speciation (2019).
+- Supervision of MSc thesis (Ecology and Evolution). Celia Tsapalou. Inferring the Additive and Epistatic Genetic Architecture involved in Speciation Using Neural Networks (2020).
 
-- Supervision MSc mini-project. Reinier de Vries. Programming in C++ for biologists (2019).
+- Supervision of MSc thesis (Ecology and Evolution). Joris Damhuis. Optimal choice and speciation (2019).
+
+- Supervision of MSc mini-project. Reinier de Vries. Generating a phylogenetic tree from a distance matrix using UPGMA and NJ. Programming in C++ for biologists (2019).
 
 - Supervision of BSc project. Elsie Tata and Robin Hamberg. Detecting speciation genetic architectures. Modelling in the Life Sciences Research (2020).
 
@@ -66,9 +68,11 @@ My detailed CV.
 
 - Supervision of BSc project. Rik Nienhuis and Bob Evenhuis. The effect of resource limitation and asymmetric competition on insular dwarfism and gigantism. Community Ecology Research (2018).
 
-## Reviews
+- Tutorial on advanced data manipulation using R and the tidyverse (2020). Openly available at https://github.com/pratikunterwegs/tres-tidy-tutorial.
 
-- Review for Oiko (2021).
+## Peer review
+
+- Review for Oikos (2021).
 
 - Review for Oikos (2018).
 
