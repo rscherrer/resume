@@ -60,6 +60,8 @@ My detailed CV.
 
 - Supervision of MSc thesis (Ecology and Evolution). Joris Damhuis. Optimal choice and speciation (2019).
 
+- Supervision of MSc essay (Ecology and Evolution). Sebastian Mader. Machine learning vs. “classical” statistics – A redundant but understandable differentiation (2020).
+
 - Supervision of MSc mini-project. Reinier de Vries. Generating a phylogenetic tree from a distance matrix using UPGMA and NJ. Programming in C++ for biologists (2019).
 
 - Supervision of BSc project. Elsie Tata and Robin Hamberg. Detecting speciation genetic architectures. Modelling in the Life Sciences Research (2020).
@@ -67,6 +69,8 @@ My detailed CV.
 - Supervision of BSc project. Jelle Molenkamp and Nicolette Tataru. The evolution of gene regulatory networks. Modelling in the Life Sciences Research (2019).
 
 - Supervision of BSc project. Rik Nienhuis and Bob Evenhuis. The effect of resource limitation and asymmetric competition on insular dwarfism and gigantism. Community Ecology Research (2018).
+
+- Grading of MSc essay (MEME program). Israel Campo Bes. On the Origin of Genetic Dominance by Means of Natural Selection?
 
 - Tutorial on advanced data manipulation using R and the tidyverse (2020). Openly available at https://github.com/pratikunterwegs/tres-tidy-tutorial.
 
