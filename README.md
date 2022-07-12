@@ -108,10 +108,10 @@ My detailed CV.
 
 ### Languages
 
-- English
-- French
-- Spanish
-- Dutch
+- French: native
+- English: fluent (C2)
+- Spanish: advanced (C1)
+- Dutch: basic (A1)
 
 ### Software
 
