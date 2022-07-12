@@ -4,7 +4,7 @@ My detailed CV.
 
 ## Education
 
-- PhD Theoretical Biology. 2017-present (ongoing). Department of Theoretical Research in Evolutionary Life Sciences, Groningen Institute for Evolutionary Life Sciences, University of Groningen, the Netherlands.
+- PhD Theoretical Biology. 2017-present (ongoing). Department of Theoretical Research in Evolutionary Life Sciences, Groningen Institute for Evolutionary Life Sciences, University of Groningen, the Netherlands. Supervised by rof. Dr. G. Sander van Doorn and Prof. Dr. Rampal S. Etienne.
 
 - MSc Evolutionary Biology. 2015-2017. University of Groningen, the Netherlands (GPA 4/4). Ludwig Maximilian University Munich, Germany (GPA 3.9/4). Harvard University, United States. Uppsala University, Sweden. 
 
