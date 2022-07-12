@@ -127,6 +127,13 @@ To be refined based on the position I apply to (e.g. 3D mesh software, wet lab s
 
 Self-management of type I diabetes since 2013.
 
+### Activities
+
+- Cooking and baking (pretty much everyday)
+- Salsa dancing ()
+- Ju-jitsu (2009-2011, orange belt from the French national Judo federation)
+- Mixed Martial Arts (2011-2012, Pancrace/Grappling at Punch, Nancy, France; 2019-present, MMA/Grappling/Kickboxing at Deltaserat, Groningen, the Netherlands)
+
 ## Links
 
 - [GitHub](https://github.com/rscherrer)
