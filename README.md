@@ -34,9 +34,39 @@ My detailed CV.
 
 - Skeletal development and evolution of developmental genes in the Cuban gar (Atractosteus tristoechus). MSc project (2015). In French. Institut des Sciences de l'Evolution de Montpellier, University of Montpellier, France. Supervised by Dr. Melanie Debiais-Thibaud.
 
+## Skills
+
+### Programming
+
+- C++
+- R
+- Python
+- MATLAB
+- Mathematica
+- LaTeX
+- bash
+
+### Languages
+
+- English
+- French
+- Spanish
+- Dutch
+
+### Software
+
+- Office suites (Microsoft, Libre Office, Open Office...)
+- Vector graphics: Adobe Illustrator / Inkscape
+- Image editors: Adobe Photoshop / GIMP
+
+### Other
+
+To be refined based on the position I apply to (e.g. 3D mesh software, wet lab skills, X-ray microtomography, etc.).
+
 ## Links
 
 - [GitHub](https://github.com/rscherrer)
 - [ResearchGate](https://www.researchgate.net/profile/Raphael-Scherrer)
 - University of Groningen [website](https://www.rug.nl/staff/r.scherrer/)
 - LinkedIn
+- [ORCID](https://orcid.org/0000-0002-1447-7630)
