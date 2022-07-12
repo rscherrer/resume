@@ -4,15 +4,15 @@ My detailed CV.
 
 ## Education
 
-- PhD in Theoretical Biology. "The genomic architecture of adaptive speciation." 2017-present (ongoing). Department of Theoretical Research in Evolutionary Life Sciences, Groningen Institute for Evolutionary Life Sciences, University of Groningen, Groningen, the Netherlands. Supervised by Prof. Dr. G. Sander van Doorn and Prof. Dr. Rampal S. Etienne.
+- PhD in Theoretical Biology titled "The genomic architecture of adaptive speciation" (2017-present). Department of Theoretical Research in Evolutionary Life Sciences, Groningen Institute for Evolutionary Life Sciences, University of Groningen, Groningen, the Netherlands. Supervised by Prof. Dr. G. Sander van Doorn and Prof. Dr. Rampal S. Etienne.
 
-- Erasmus Mundus Master's in Evolutionary Biology ([MEME](https://evobio.eu)). 2015-2017. University of Groningen, Groningen, the Netherlands (GPA 4/4). Ludwig Maximilian University, Munich, Germany (GPA 3.9/4). Harvard University, Cambridge, MA, USA. Uppsala University, Uppsala, Sweden. 
+- Erasmus Mundus Master's in Evolutionary Biology ([MEME](https://evobio.eu), 2015-2017). University of Groningen, Groningen, the Netherlands (GPA 4/4). Ludwig Maximilian University, Munich, Germany (GPA 3.9/4). Harvard University, Cambridge, MA, USA. Uppsala University, Uppsala, Sweden. 
 
-- MSc Evolutionary Biology. First year. 2014-2015. University of Montpellier, Montpellier, France. GPA 3.83/4.
+- MSc Evolutionary Biology (first year, 2014-2015). University of Montpellier, Montpellier, France (GPA 3.83/4).
 
-- BSc Biology. 2011-2014. University of Lorraine, Nancy, France. GPA 3.92/4. Graduated with first-class honors.
+- BSc Biology (2011-2014). University of Lorraine, Nancy, France (GPA 3.92/4). Graduated with first-class honors.
 
-- Scientific baccalauréat. 2011. Lycée Louis Majorelle, Toul, France. Graduated with first-class honors.
+- Scientific baccalauréat (2011). Lycée Louis Majorelle, Toul, France. Graduated with first-class honors.
 
 ## Publications
 
@@ -36,23 +36,49 @@ My detailed CV.
 
 ## Conferences
 
-- The genomic signatures of speciation with gene networks. Conference talk (2021). Modelling in Ecology and Evolution Meeting (MEEM), Lausanne, Switzerland. Online.
+- Conference talk "The genomic signatures of speciation with gene networks". Modelling in Ecology and Evolution Meeting (MEEM) 2021, Lausanne, Switzerland.
 
-- Modeling speciation with gene networks. Conference talk (2021). Meeting of the Dutch Society for Theoretical Biology (NVTB), Schoorl, the Netherlands. Online.
+- Conference talk "Modeling speciation with gene networks". Meeting of the Dutch Society for Theoretical Biology (NVTB) 2021, Schoorl, the Netherlands.
 
-- Cladogenetic evolution of plumage coloration in birds of paradise. Poster (2018). Evolution conference (ASN/SSB/SSE/ESEB), Montpellier, France.
+- Poster "Cladogenetic evolution of plumage coloration in birds of paradise". Evolution conference (ASN/SSB/SSE/ESEB) 2018, Montpellier, France.
 
-- Sexual selection plays a limited role in accelerating color evolution upon speciation in birds of paradise. Poster (2018). Meeting of the Dutch Society for Evolutionary Biology (NLSEB), Ede, the Netherlands.
+- Poster "Sexual selection plays a limited role in accelerating color evolution upon speciation in birds of paradise". Meeting of the Dutch Society for Evolutionary Biology (NLSEB) 2018, Ede, the Netherlands.
 
-- Adaptive divergence of dewlap coloration in Anolis sagrei. Poster (2017). Meeting of the European Society for Evoutionary Biology (ESEB), Groningen, the Netherlands.
+- Poster "Adaptive divergence of dewlap coloration in Anolis sagrei". Meeting of the European Society for Evoutionary Biology (ESEB) 2017, Groningen, the Netherlands.
 
-- Online conference talk. PhD student and postdoc meeting of the Dutch Society for Evolutionary Biology (NLSEB), Ede, the Netherlands.
+## Teaching
+
+- Teaching assistant. Programming in C++ for biologists (2019, 2020).
+
+- Teaching assistant. Behaviour, Ecology and Evolution (2020, 2021).
+
+- Teaching assistant. Evolutionary processes (2020, 2021, 2022).
+
+- Supervision MSc thesis. Celia Tsapalou (MSc Ecology and Evolution). Inferring the Additive and Epistatic Genetic Architecture involved in Speciation Using Neural Networks (2020).
+
+- Supervision MSc thesis. Joris Damhuis (MSc Ecology and Evolution). Optimal choice and speciation (2019).
+
+- Supervision MSc mini-project. Reinier de Vries. Programming in C++ for biologists (2019).
+
+- Supervision of BSc project. Elsie Tata and Robin Hamberg. Detecting speciation genetic architectures. Modelling in the Life Sciences Research (2020).
+
+- Supervision of BSc project. Jelle Molenkamp and Nicolette Tataru. The evolution of gene regulatory networks. Modelling in the Life Sciences Research (2019).
+
+- Supervision of BSc project. Rik Nienhuis and Bob Evenhuis. The effect of resource limitation and asymmetric competition on insular dwarfism and gigantism. Community Ecology Research (2018).
+
+## Reviews
+
+- Review for Oiko (2021).
+
+- Review for Oikos (2018).
+
+- Co-review for Journal of Morphology (2017).
 
 ## Outreach
 
-- Elevator pitch contest. 1-minute pitch (2021). NLSEB PhD/postdoc meeting, Ede, the Netherlands. Online.
+- 1-minute elevator pitch contest. NLSEB PhD/postdoc meeting 2021, Ede, the Netherlands.
 
-- Cladogenetic evolution of plumage coloration in birds of paradise. Short outreach talk (2018). Outreach seminar series in honor of Redmond O'Hanlon (author), Groningen Institute for Evolutionary Life Sciences, Groningen, the Netherlands.
+- Short talk "Cladogenetic evolution of plumage coloration in birds of paradise". Outreach seminar series in honor of writer Redmond O'Hanlon (2018), Groningen Institute for Evolutionary Life Sciences, Groningen, the Netherlands.
 
 ## Volunteering
 
