@@ -56,7 +56,7 @@ My detailed CV.
 
 - Teaching assistant (BSc). Computer practicals on speciation theory. Evolutionary processes (2020, 2021, 2022). 
 
-- Supervision of MSc thesis (Ecology and Evolution). Celia Tsapalou. Inferring the Additive and Epistatic Genetic Architecture involved in Speciation Using Neural Networks (2020).
+- Supervision of MSc thesis (Ecology and Evolution). Vasiliki (Celia) Tsapalou. Inferring the Additive and Epistatic Genetic Architecture involved in Speciation Using Neural Networks (2020).
 
 - Supervision of MSc thesis (Ecology and Evolution). Joris Damhuis. Optimal choice and speciation (2019).
 
