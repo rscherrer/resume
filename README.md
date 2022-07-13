@@ -56,11 +56,13 @@ My detailed CV.
 
 - Teaching assistant (2020, 2021, 2022). Evolutionary processes (BSc). Computer practicals on speciation theory. 
 
-- Supervision of MSc thesis (2020). (Ecology and Evolution). Vasiliki (Celia) Tsapalou. Inferring the Additive and Epistatic Genetic Architecture involved in Speciation Using Neural Networks.
+- Supervision of MSc thesis (2020). Vasiliki (Celia) Tsapalou (MSc Ecology and Evolution). Inferring the Additive and Epistatic Genetic Architecture involved in Speciation Using Neural Networks.
 
-- Supervision of MSc thesis (2019) (Ecology and Evolution). Joris Damhuis. Optimal choice and speciation.
+- Supervision of MSc thesis (2019). Joris Damhuis (MSc Ecology and Evolution). Optimal choice and speciation.
 
-- Supervision of MSc essay (2020) (Ecology and Evolution). Sebastian Mader. Machine learning vs. “classical” statistics – A redundant but understandable differentiation.
+- Supervision of MSc essay (2020). Sebastian Mader (MSc Ecology and Evolution). Machine learning vs. “classical” statistics – A redundant but understandable differentiation.
+
+- Grading of MSc essay (2020). Israel Campo Bes (MEME MSc program). On the Origin of Genetic Dominance by Means of Natural Selection?
 
 - Supervision of MSc mini-project (2019). Reinier de Vries. Generating a phylogenetic tree from a distance matrix using UPGMA and NJ. Programming in C++ for biologists.
 
@@ -70,9 +72,7 @@ My detailed CV.
 
 - Supervision of BSc project (2018). Rik Nienhuis and Bob Evenhuis. The effect of resource limitation and asymmetric competition on insular dwarfism and gigantism. Community Ecology Research.
 
-- Grading of MSc essay (2020). (MEME program). Israel Campo Bes. On the Origin of Genetic Dominance by Means of Natural Selection?
-
-- Tutorial on advanced data manipulation using R and the tidyverse (2020). Openly available at https://github.com/pratikunterwegs/tres-tidy-tutorial.
+- Tutorial (2020). Advanced data manipulation using R and the tidyverse. Openly available at [https://github.com/pratikunterwegs/tres-tidy-tutorial](https://github.com/pratikunterwegs/tres-tidy-tutorial).
 
 ## Peer review
 
