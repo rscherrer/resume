@@ -36,15 +36,15 @@ My detailed CV.
 
 ## Conferences
 
-- Conference talk "The genomic signatures of speciation with gene networks". Modelling in Ecology and Evolution Meeting (MEEM) 2021, Lausanne, Switzerland.
+- Conference talk (2021). The genomic signatures of speciation with gene networks. Modelling in Ecology and Evolution Meeting (MEEM), Lausanne, Switzerland.
 
-- Conference talk "Modeling speciation with gene networks". Meeting of the Dutch Society for Theoretical Biology (NVTB) 2021, Schoorl, the Netherlands.
+- Conference talk (2021). Modeling speciation with gene networks. Meeting of the Dutch Society for Theoretical Biology (NVTB), Schoorl, the Netherlands.
 
-- Poster "Cladogenetic evolution of plumage coloration in birds of paradise". Evolution conference (ASN/SSB/SSE/ESEB) 2018, Montpellier, France.
+- Poster (2018). Cladogenetic evolution of plumage coloration in birds of paradise. Evolution conference (ASN/SSB/SSE/ESEB), Montpellier, France.
 
-- Poster "Sexual selection plays a limited role in accelerating color evolution upon speciation in birds of paradise". Meeting of the Dutch Society for Evolutionary Biology (NLSEB) 2018, Ede, the Netherlands.
+- Poster (2018). Sexual selection plays a limited role in accelerating color evolution upon speciation in birds of paradise. Meeting of the Dutch Society for Evolutionary Biology (NLSEB) 2018, Ede, the Netherlands.
 
-- Poster "Adaptive divergence of dewlap coloration in *Anolis sagrei*". Meeting of the European Society for Evoutionary Biology (ESEB) 2017, Groningen, the Netherlands.
+- Poster (2018). Adaptive divergence of dewlap coloration in *Anolis sagrei*. Meeting of the European Society for Evoutionary Biology (ESEB), Groningen, the Netherlands.
 
 ## Teaching
 
