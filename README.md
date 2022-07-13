@@ -50,27 +50,27 @@ My detailed CV.
 
 (University of Groningen.)
 
-- Teaching assistant (BSc, MSc, PhD). Practicals and one lecture. Programming in C++ for biologists (2019, 2020). 
+- Teaching assistant (2019, 2020). Programming in C++ for biologists (BSc, MSc, PhD). Practicals and one lecture. 
 
-- Teaching assistant (MSc). Practicals on the concept of fitness. Behaviour, Ecology and Evolution (2020, 2021). 
+- Teaching assistant (2020, 2021). Behaviour, Ecology and Evolution (MSc). Practicals on the concept of fitness. 
 
-- Teaching assistant (BSc). Computer practicals on speciation theory. Evolutionary processes (2020, 2021, 2022). 
+- Teaching assistant (2020, 2021, 2022). Evolutionary processes (BSc). Computer practicals on speciation theory. 
 
-- Supervision of MSc thesis (Ecology and Evolution). Vasiliki (Celia) Tsapalou. Inferring the Additive and Epistatic Genetic Architecture involved in Speciation Using Neural Networks (2020).
+- Supervision of MSc thesis (2020). (Ecology and Evolution). Vasiliki (Celia) Tsapalou. Inferring the Additive and Epistatic Genetic Architecture involved in Speciation Using Neural Networks.
 
-- Supervision of MSc thesis (Ecology and Evolution). Joris Damhuis. Optimal choice and speciation (2019).
+- Supervision of MSc thesis (2019) (Ecology and Evolution). Joris Damhuis. Optimal choice and speciation.
 
-- Supervision of MSc essay (Ecology and Evolution). Sebastian Mader. Machine learning vs. “classical” statistics – A redundant but understandable differentiation (2020).
+- Supervision of MSc essay (2020) (Ecology and Evolution). Sebastian Mader. Machine learning vs. “classical” statistics – A redundant but understandable differentiation.
 
-- Supervision of MSc mini-project. Reinier de Vries. Generating a phylogenetic tree from a distance matrix using UPGMA and NJ. Programming in C++ for biologists (2019).
+- Supervision of MSc mini-project (2019). Reinier de Vries. Generating a phylogenetic tree from a distance matrix using UPGMA and NJ. Programming in C++ for biologists.
 
-- Supervision of BSc project. Elsie Tata and Robin Hamberg. Detecting speciation genetic architectures. Modelling in the Life Sciences Research (2020).
+- Supervision of BSc project (2020). Elsie Tata and Robin Hamberg. Detecting speciation genetic architectures. Modelling in the Life Sciences Research.
 
-- Supervision of BSc project. Jelle Molenkamp and Nicolette Tataru. The evolution of gene regulatory networks. Modelling in the Life Sciences Research (2019).
+- Supervision of BSc project (2019). Jelle Molenkamp and Nicolette Tataru. The evolution of gene regulatory networks. Modelling in the Life Sciences Research.
 
-- Supervision of BSc project. Rik Nienhuis and Bob Evenhuis. The effect of resource limitation and asymmetric competition on insular dwarfism and gigantism. Community Ecology Research (2018).
+- Supervision of BSc project (2018). Rik Nienhuis and Bob Evenhuis. The effect of resource limitation and asymmetric competition on insular dwarfism and gigantism. Community Ecology Research.
 
-- Grading of MSc essay (MEME program). Israel Campo Bes. On the Origin of Genetic Dominance by Means of Natural Selection (2020)?
+- Grading of MSc essay (2020). (MEME program). Israel Campo Bes. On the Origin of Genetic Dominance by Means of Natural Selection?
 
 - Tutorial on advanced data manipulation using R and the tidyverse (2020). Openly available at https://github.com/pratikunterwegs/tres-tidy-tutorial.
 
