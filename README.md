@@ -16,11 +16,11 @@ My detailed CV.
 
 ## Publications
 
-- **Scherrer, R**., Donihue, C. M., Reynolds, R. G., Losos, J. B., & Geneva, A. J. (2022). Dewlap colour variation in *Anolis sagrei* is maintained among habitats within islands of the West Indies. Journal of Evolutionary Biology, 35(5), 680–692. https://doi.org/10.1111/jeb.14002
+- **Scherrer, R**., Donihue, C. M., Reynolds, R. G., Losos, J. B., & Geneva, A. J. (2022). Dewlap colour variation in *Anolis sagrei* is maintained among habitats within islands of the West Indies. *Journal of Evolutionary Biology*, 35(5), 680–692. https://doi.org/10.1111/jeb.14002
 
-- Simonet, C., **Scherrer, R**., Rego-Costa, A., & Etienne, R. S. (2018). Robustness of the approximate likelihood of the protracted speciation model. Journal of Evolutionary Biology, 31(3), 469–479. https://doi.org/10.1111/jeb.13233
+- Simonet, C., **Scherrer, R**., Rego-Costa, A., & Etienne, R. S. (2018). Robustness of the approximate likelihood of the protracted speciation model. *Journal of Evolutionary Biology*, 31(3), 469–479. https://doi.org/10.1111/jeb.13233
 
-- **Scherrer, R**., Hurtado, A., Garcia Machado, E., & Debiais-Thibaud, M. (2017). MicroCT survey of larval skeletal mineralization in the Cuban gar *Atractosteus tristoechus* (Actinopterygii; Lepisosteiformes). MorphoMuseuM, 3(3), e3. https://doi.org/10.18563/m3.3.3.e3
+- **Scherrer, R**., Hurtado, A., Garcia Machado, E., & Debiais-Thibaud, M. (2017). MicroCT survey of larval skeletal mineralization in the Cuban gar *Atractosteus tristoechus* (Actinopterygii; Lepisosteiformes). *MorphoMuseuM*, 3(3), e3. https://doi.org/10.18563/m3.3.3.e3
 
 ## Other research
 
