@@ -24,15 +24,15 @@ My detailed CV.
 
 ## Other research
 
-- Sexual selection and the rapid evolution of plumage coloration upon speciation: a study of birds of paradise (Paradisaeidae). MSc thesis (2017). Department of Evolutionary Biology, Uppsala University, Uppsala, Sweden. Supervised by Dr. Melanie J. Monroe.
+- MSc thesis. Sexual selection and the rapid evolution of plumage coloration upon speciation: a study of birds of paradise (Paradisaeidae). (2017). Department of Evolutionary Biology, Uppsala University, Uppsala, Sweden. Supervised by Dr. Melanie J. Monroe.
 
-- Adaptive divergence of a sexual trait in a Caribbean lizard. MSc thesis (2016). Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA, USA. Supervised by Dr. Anthony J. Geneva, Dr. Colin M. Donihue and Prof. Dr. Jonathan B. Losos.
+- MSc thesis. Adaptive divergence of a sexual trait in a Caribbean lizard. (2016). Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA, USA. Supervised by Dr. Anthony J. Geneva, Dr. Colin M. Donihue and Prof. Dr. Jonathan B. Losos.
 
-- Gene expression divergence between populations and sexes in *Drosophila melanogaster*. MSc project (2016). Department of Evolutionary Biology, Ludwig Maximilian University, Munich, Germany. Supervised by Prof. Dr. John Parsch.
+- MSc project. Gene expression divergence between populations and sexes in *Drosophila melanogaster*. (2016). Department of Evolutionary Biology, Ludwig Maximilian University, Munich, Germany. Supervised by Prof. Dr. John Parsch.
 
-- Tree imbalance under the Protracted Birth Death model of speciation. MSc project (2015). Department of Theoretical Research in Evolutionary Life Sciences, Groningen Institute for Evolutionary Life Sciences, University of Groningen, Groningen, the Netherlands. Supervised by Prof. Dr. Rampal S. Etienne.
+- MSc project. Tree imbalance under the Protracted Birth Death model of speciation. (2015). Department of Theoretical Research in Evolutionary Life Sciences, Groningen Institute for Evolutionary Life Sciences, University of Groningen, Groningen, the Netherlands. Supervised by Prof. Dr. Rampal S. Etienne.
 
-- Skeletal development and evolution of developmental genes in the Cuban gar (*Atractosteus tristoechus*). MSc project (2015). In French. Institut des Sciences de l'Evolution de Montpellier, University of Montpellier, Montpellier, France. Supervised by Dr. Melanie Debiais-Thibaud.
+- MSc project. Skeletal development and evolution of developmental genes in the Cuban gar (*Atractosteus tristoechus*). (2015). In French. Institut des Sciences de l'Evolution de Montpellier, University of Montpellier, Montpellier, France. Supervised by Dr. Melanie Debiais-Thibaud.
 
 ## Conferences
 
