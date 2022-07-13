@@ -6,7 +6,7 @@ My detailed CV.
 
 - PhD in Theoretical Biology titled "The genomic architecture of adaptive speciation" (2017-present). Department of Theoretical Research in Evolutionary Life Sciences, Groningen Institute for Evolutionary Life Sciences, University of Groningen, Groningen, the Netherlands. Supervised by Prof. Dr. G. Sander van Doorn and Prof. Dr. Rampal S. Etienne.
 
-- Erasmus Mundus Master's in Evolutionary Biology ([MEME](https://evobio.eu), 2015-2017). University of Groningen, Groningen, the Netherlands (GPA 4/4). Ludwig Maximilian University, Munich, Germany (GPA 3.9/4). Harvard University, Cambridge, MA, USA. Uppsala University, Uppsala, Sweden. 
+- Erasmus Mundus Master's in Evolutionary Biology ([MEME](https://evobio.eu), 2015-2017). University of Groningen, Groningen, the Netherlands (GPA 4/4). Ludwig Maximilian University, Munich, Germany (GPA 3.9/4). Harvard University, Cambridge, MA, USA (thesis). Uppsala University, Uppsala, Sweden (thesis). 
 
 - MSc Evolutionary Biology (first year, 2014-2015). University of Montpellier, Montpellier, France (GPA 3.83/4).
 
