@@ -90,13 +90,13 @@ My detailed CV.
 
 ## Volunteering
 
-- Capture of wild brown anoles (*Anolis sagrei*) from the Bahamas for an experimental lizard colony at Harvard University. Field assistant (2016). Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA, USA. Supervised by Dr. Colin Donihue and Prof. Dr. Jonathan B. Losos.
+- Field assistant (2016). Capture of wild brown anoles (*Anolis sagrei*) from the Bahamas for an experimental lizard colony at Harvard University. Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA, USA. Supervised by Dr. Colin Donihue and Prof. Dr. Jonathan B. Losos.
 
-- Maintenance and measurements in a mesocosm phytosanitary experiment in ecotoxicology. Internship (2014). Research unit "Animals and Functionality of Animal Products", University of Lorraine, Nancy, France. Supervised by Dr. Marielle Thomas.
+- Internship (2014). Maintenance and measurements in a mesocosm phytosanitary experiment in ecotoxicology. Research unit "Animals and Functionality of Animal Products", University of Lorraine, Nancy, France. Supervised by Dr. Marielle Thomas.
 
-- Behavioral observation and cognition experiments in a social network of captive rooks (*Corvus frugilegus*). Internship (2013). Department of Ecophysiology and Ethology, Centre National de la Recherche Scientifique (CNRS), Strasbourg, France. Supervised by Dr. Valérie Dufour.
+- Internship (2013). Behavioral observation and cognition experiments in a social network of captive rooks (*Corvus frugilegus*). Department of Ecophysiology and Ethology, Centre National de la Recherche Scientifique (CNRS), Strasbourg, France. Supervised by Dr. Valérie Dufour.
 
-- Inventory of the zoological collection of the faculty. Voluntary participation (2013). University of Lorraine, Nancy, France.
+- Voluntary participation (2013). Inventory of the zoological collection of the faculty. University of Lorraine, Nancy, France.
 
 ## Skills
 
