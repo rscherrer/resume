@@ -42,7 +42,7 @@ My detailed CV.
 
 - Poster (2018). Cladogenetic evolution of plumage coloration in birds of paradise. Evolution conference (ASN/SSB/SSE/ESEB), Montpellier, France.
 
-- Poster (2018). Sexual selection plays a limited role in accelerating color evolution upon speciation in birds of paradise. Meeting of the Dutch Society for Evolutionary Biology (NLSEB) 2018, Ede, the Netherlands.
+- Poster (2018). Sexual selection plays a limited role in accelerating color evolution upon speciation in birds of paradise. Meeting of the Dutch Society for Evolutionary Biology (NLSEB), Ede, the Netherlands.
 
 - Poster (2018). Adaptive divergence of dewlap coloration in *Anolis sagrei*. Meeting of the European Society for Evoutionary Biology (ESEB), Groningen, the Netherlands.
 
