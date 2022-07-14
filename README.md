@@ -86,6 +86,8 @@ My detailed CV.
 
 - 1-minute elevator pitch contest. NLSEB PhD/postdoc meeting 2021, Ede, the Netherlands.
 
+- Podcast episode (2019). Meme Stream Episode 2: The tempo of evolution and the birds-of-paradise with Raphaël Scherrer. Available [here](https://open.spotify.com/episode/4lsaLONEsJtfeOObHPltq5) or [here](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NTYzNDE5NjExL3NvdW5kcy5yc3M/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTYxNDk3MzMx?sa=X&ved=0CAUQkfYCahcKEwiAxs7L6Pj4AhUAAAAAHQAAAAAQCg&hl=en-NL)
+
 - Short talk "Cladogenetic evolution of plumage coloration in birds of paradise". Outreach seminar series in honor of writer Redmond O'Hanlon (2018), Groningen Institute for Evolutionary Life Sciences, Groningen, the Netherlands.
 
 ## Volunteering
@@ -97,6 +99,18 @@ My detailed CV.
 - Internship (2013). Behavioral observation and cognition experiments in a social network of captive rooks (*Corvus frugilegus*). Department of Ecophysiology and Ethology, Centre National de la Recherche Scientifique (CNRS), Strasbourg, France. Supervised by Dr. Valérie Dufour.
 
 - Voluntary participation (2013). Inventory of the zoological collection of the faculty. University of Lorraine, Nancy, France.
+
+## Society memberships
+
+- Membership (2021). Society for the Study of Evolution (SSE). 
+
+- Membership (2021). Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (SORTEE).
+
+- Membership (2018-2019, 2021). Dutch Society for Evolutionary Biology (NLSEB).
+
+- Membership (2017-2018). European Society for Evolutionary Biology (ESEB).
+
+- Membership (2016-2019). American Association for the Advancement of Science (AAAS).
 
 ## Skills
 
