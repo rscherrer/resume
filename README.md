@@ -2,6 +2,14 @@
 
 My detailed CV.
 
+## Links
+
+- [GitHub](https://github.com/rscherrer)
+- [ResearchGate](https://www.researchgate.net/profile/Raphael-Scherrer)
+- [RUG page](https://www.rug.nl/staff/r.scherrer/)
+- [LinkedIn](https://www.linkedin.com/in/rapha%C3%ABl-scherrer-5817a3bb)
+- [ORCID](https://orcid.org/0000-0002-1447-7630)
+
 ## Education
 
 - PhD in Theoretical Biology titled "The genomic architecture of adaptive speciation" (2017-present). Department of Theoretical Research in Evolutionary Life Sciences, Groningen Institute for Evolutionary Life Sciences, University of Groningen, Groningen, the Netherlands. Supervised by Prof. Dr. G. Sander van Doorn and Prof. Dr. Rampal S. Etienne.
@@ -154,11 +162,3 @@ Self-management of type I diabetes since 2013.
 - Mixed Martial Arts (2011-2012, Pancrace/Grappling at Punch, Nancy, France; 2019-present, MMA/Grappling/Kickboxing at Deltaserat, Groningen, the Netherlands)
 
 - Ju-jitsu (2009-2011, orange belt from the French national Judo federation)
-
-## Links
-
-- [GitHub](https://github.com/rscherrer)
-- [ResearchGate](https://www.researchgate.net/profile/Raphael-Scherrer)
-- [RUG page](https://www.rug.nl/staff/r.scherrer/)
-- [LinkedIn](https://www.linkedin.com/in/rapha%C3%ABl-scherrer-5817a3bb)
-- [ORCID](https://orcid.org/0000-0002-1447-7630)
