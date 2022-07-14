@@ -8,7 +8,7 @@ My detailed CV.
 
 - Erasmus Mundus Master's in Evolutionary Biology ([MEME](https://evobio.eu), 2015-2017). University of Groningen, Groningen, the Netherlands (GPA 4/4). Ludwig Maximilian University, Munich, Germany (GPA 3.9/4). Harvard University, Cambridge, MA, USA (thesis). Uppsala University, Uppsala, Sweden (thesis). 
 
-- MSc Evolutionary Biology (first year, 2014-2015). University of Montpellier, Montpellier, France (GPA 3.83/4).
+- MSc Ecology and Evolution (first year, 2014-2015). University of Montpellier, Montpellier, France (GPA 3.83/4).
 
 - BSc Biology (2011-2014). University of Lorraine, Nancy, France (GPA 3.92/4). Graduated summa cum laude (Mention Très Bien).
 
