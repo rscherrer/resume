@@ -1,4 +1,4 @@
-# cv
+# resume
 
 My detailed CV.
 
