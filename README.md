@@ -1,6 +1,6 @@
 # resume
 
-My detailed CV.
+My detailed CV. (Check out [main.pdf](https://github.com/rscherrer/resume/blob/main/main.pdf) for a PDF version, or keep browsing here.)
 
 ## Links
 
