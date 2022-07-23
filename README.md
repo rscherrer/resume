@@ -100,7 +100,9 @@ My detailed CV.
 
 ## Volunteering
 
-- Field assistant (2016). Capture of wild brown anoles (*Anolis sagrei*) from the Bahamas for an experimental lizard colony at Harvard University. Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA, USA. Supervised by Dr. Colin Donihue and Prof. Dr. Jonathan B. Losos.
+- Field assistant (2017). Capture of wild brown anoles (*Anolis sagrei*) from the Bahamas for an experimental lizard colony at Harvard University. Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA, USA. Supervised by Dr. Colin M. Donihue and Prof. Dr. Jonathan B. Losos.
+
+- Lab assistant (2016). Maintenance and animal husbandry for an experimental lizard colony at Harvard University. Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA, USA. Supervised by Dr. Colin M. Donihue and Dr. Anthony J. Geneva.
 
 - Internship (2014). Maintenance and measurements in a mesocosm phytosanitary experiment in ecotoxicology. Research unit "Animals and Functionality of Animal Products", University of Lorraine, Nancy, France. Supervised by Dr. Marielle Thomas.
 
@@ -155,10 +157,18 @@ Self-management of type I diabetes since 2013.
 
 ### Activities
 
-- Cooking and baking (pretty much everyday)
-
 - Salsa dancing (2019-2020, salsa 1 to salsa 4 at The Blue Toes, Groningen, the Netherlands; 2020-2022, salsa intermediate 1 to salsa advanced 3 at Salsa Juan Carlos, Groningen, the Netherlands)
 
 - Mixed Martial Arts (2011-2012, Pancrace/Grappling at Punch, Nancy, France; 2019-present, MMA/Grappling/Kickboxing at Deltaserat, Groningen, the Netherlands)
 
 - Ju-jitsu (2009-2011, orange belt from the French national Judo federation)
+
+- Favorite podcasts: The Skeptic's Guide to the Universe and Sur Les \'{E}paules de Darwin
+
+- Nature photography
+
+- Cooking and baking
+
+- Landscape and natural history illustration
+
+- Circus arts (diabolo mostly)
