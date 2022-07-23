@@ -30,6 +30,10 @@ My detailed CV.
 
 - **Scherrer, R**., Hurtado, A., Garcia Machado, E., & Debiais-Thibaud, M. (2017). MicroCT survey of larval skeletal mineralization in the Cuban gar *Atractosteus tristoechus* (Actinopterygii; Lepisosteiformes). *MorphoMuseuM*, 3(3), e3. https://doi.org/10.18563/m3.3.3.e3
 
+## Software
+
+- Etienne, R., Lima Valente, L., Phillimore, A. B., Haegeman, B., Lambert, J., Neves, P., Xie, S., Bilderbeek, R., Hauffe, T., Laudanno, G., Kristensen, N. & **Scherrer, R.** (2020). DAISIE: Dynamical Assembly of Islands by Speciation, Immigration and Extinction. https://cran.r-project.org/package=DAISIE
+
 ## Other research
 
 - MSc thesis (2017). Sexual selection and the rapid evolution of plumage coloration upon speciation: a study of birds of paradise (Paradisaeidae). Department of Evolutionary Biology, Uppsala University, Uppsala, Sweden. Supervised by Dr. Melanie J. Monroe.
