@@ -167,7 +167,7 @@ Self-management of type I diabetes since 2013.
 
 - Ju-jitsu (2009-2011, orange belt from the French national Judo federation)
 
-- Favorite podcasts: The Skeptic's Guide to the Universe and Sur Les \'{E}paules de Darwin
+- Favorite podcasts: The Skeptic's Guide to the Universe and Sur Les Épaules de Darwin
 
 - Nature photography
 
