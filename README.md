@@ -138,6 +138,8 @@ My detailed CV. (Check out [main.pdf](https://github.com/rscherrer/resume/blob/m
 - LaTeX
 - bash
 
+- Test-driven development
+
 ### Languages
 
 - French: native
@@ -150,6 +152,7 @@ My detailed CV. (Check out [main.pdf](https://github.com/rscherrer/resume/blob/m
 - Office suites (Microsoft, Libre Office, Open Office...)
 - Vector graphics: Adobe Illustrator / Inkscape
 - Image editors: Adobe Photoshop / GIMP
+- Computer clusters
 
 ### Other
 
