@@ -88,6 +88,8 @@ My detailed CV. (Check out [main.pdf](https://github.com/rscherrer/resume/blob/m
 
 ## Peer review
 
+- Review for Biological Journal of the Linnaean Society (2022)
+
 - Review for Nature Communications Biology (2022)
 
 - Review for Oikos (2021).
