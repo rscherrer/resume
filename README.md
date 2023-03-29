@@ -48,13 +48,15 @@ My detailed CV. (Check out [main.pdf](https://github.com/rscherrer/resume/blob/m
 
 ## Conferences
 
+- Conference talk (2022). Epistasis makes ecological speciation be driven by a speciation genome, not by speciation genes. Junior meeting of the Dutch Society for Evolutionary Biology (NLSEB), Groningen, the Netherlands.
+
 - Conference talk (2021). The genomic signatures of speciation with gene networks. Modelling in Ecology and Evolution Meeting (MEEM), Lausanne, Switzerland.
 
 - Conference talk (2021). Modeling speciation with gene networks. Meeting of the Dutch Society for Theoretical Biology (NVTB), Schoorl, the Netherlands.
 
 - Poster (2018). Cladogenetic evolution of plumage coloration in birds of paradise. Evolution conference (ASN/SSB/SSE/ESEB), Montpellier, France.
 
-- Poster (2018). Sexual selection plays a limited role in accelerating color evolution upon speciation in birds of paradise. Meeting of the Netherlands Society for Evolutionary Biology (NLSEB), Ede, the Netherlands.
+- Poster (2018). Sexual selection plays a limited role in accelerating color evolution upon speciation in birds of paradise. Meeting of the Dutch Society for Evolutionary Biology (NLSEB), Ede, the Netherlands.
 
 - Poster (2017). Adaptive divergence of dewlap coloration in *Anolis sagrei*. Meeting of the European Society for Evoutionary Biology (ESEB), Groningen, the Netherlands.
 
@@ -62,11 +64,13 @@ My detailed CV. (Check out [main.pdf](https://github.com/rscherrer/resume/blob/m
 
 (University of Groningen.)
 
+- Lecturer (2023 - now). Currently teaching and coordinating the course Evolutionary Processes (BSc) and restructuring the course Evolutionary Theory (MSc).
+
 - Teaching assistant (2019, 2020). Programming in C++ for biologists (BSc, MSc, PhD). Practicals and one lecture. 
 
 - Teaching assistant (2020, 2021). Behaviour, Ecology and Evolution (MSc). Practicals on the concept of fitness. 
 
-- Teaching assistant (2020, 2021, 2022). Evolutionary processes (BSc). Computer practicals on speciation theory. 
+- Teaching assistant (2020, 2021, 2022). Evolutionary Processes (BSc). Computer practicals on speciation theory. 
 
 - Supervision of MSc thesis (2020). Vasiliki (Celia) Tsapalou (MSc Ecology and Evolution). Inferring the Additive and Epistatic Genetic Architecture involved in Speciation Using Neural Networks.
 
@@ -100,6 +104,11 @@ My detailed CV. (Check out [main.pdf](https://github.com/rscherrer/resume/blob/m
 
 ## Outreach
 
+- Voluntary lecturer for the upcoming Evolutionary Biology Crash Course (2023 edition), a free online course aimed at students from the Global South (topics: speciation theory, models of macroevolution, adaptive dynamics).
+[https://evobiocrashcourse.github.io/](https://evobiocrashcourse.github.io/)
+
+- Participant in the Knowledge Clips project of the NLSEB (2023), aimed at making topics in evolutionary biology accessible to students across Dutch universities and beyond.
+
 - 1-minute elevator pitch contest. NLSEB PhD/postdoc meeting 2021, Ede, the Netherlands.
 
 - Podcast episode (2019). Meme Stream Episode 2: The tempo of evolution and the birds-of-paradise with Raphaël Scherrer. Available [here](https://open.spotify.com/episode/4lsaLONEsJtfeOObHPltq5) or [here](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NTYzNDE5NjExL3NvdW5kcy5yc3M/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNTYxNDk3MzMx?sa=X&ved=0CAUQkfYCahcKEwiAxs7L6Pj4AhUAAAAAHQAAAAAQCg&hl=en-NL)
@@ -124,7 +133,7 @@ My detailed CV. (Check out [main.pdf](https://github.com/rscherrer/resume/blob/m
 
 - Membership (2021). Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (SORTEE).
 
-- Membership (2018-2019, 2021). Netherlands Society for Evolutionary Biology (NLSEB).
+- Membership (2018-2019, 2021). Dutch Society for Evolutionary Biology (NLSEB).
 
 - Membership (2017-2018). European Society for Evolutionary Biology (ESEB).
 
