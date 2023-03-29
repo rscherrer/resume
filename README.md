@@ -177,7 +177,7 @@ Self-management of type I diabetes since 2013.
 
 ### Activities
 
-- Salsa dancing (2019-2020, salsa 1 to salsa 4 at The Blue Toes, Groningen, the Netherlands; 2020-2022, salsa intermediate 1 to salsa advanced 3 at Salsa Juan Carlos, Groningen, the Netherlands)
+- Salsa dancing (2019-2020, salsa 1 to salsa 4 at The Blue Toes, Groningen, the Netherlands; 2020-2023, salsa intermediate 1 to salsa advanced 3 at Salsa Juan Carlos, Groningen, the Netherlands)
 
 - Mixed Martial Arts (2011-2012, Pancrace/Grappling at Punch, Nancy, France; 2019-present, MMA/Grappling/Kickboxing at Deltaserat, Groningen, the Netherlands)
 
